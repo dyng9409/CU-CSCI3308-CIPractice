@@ -184,7 +184,7 @@ Suite* coord_2d_suite(void)
     suite_add_tcase(s, tc_2d_dist);
     suite_add_tcase(s, tc_2d_midpoint);
     suite_add_tcase(s, tc_2d_area_triangle);
-    /* Return Suite *****/
+    /* Return Suite **********/
     return s;
 
 }
